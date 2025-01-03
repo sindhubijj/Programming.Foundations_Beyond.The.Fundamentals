@@ -1,4 +1,4 @@
-# Programming Foundations: Beyond the Fundamentals | Python 
+# Programming Foundations: Beyond the Fundamentals
 *Learning Path - Becoming a Programmer: Foundations* 
 
 **Coding Exercises:** 
