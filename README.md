@@ -20,6 +20,8 @@
     - *File Name:* stringApp.py
 - ***Slicing*** **Program:** Program introducing slicing and working with more sting methods.  
     - *File Name:* slicing.py
+- ***Input & Output*** **Program:** Program introducing user interaction using input/output methods and separate files.  
+    - *File Name:* inputOutput.py
 - ***Challenge #1*** **Program:** Focused on creating lists & dictionaries while accessing indicies. 
     - *File Name:* challenge_1.py
 - ***Challenge #2*** **Program:** Focused on creating a for-loop to print out a list/collection. 
