@@ -12,7 +12,7 @@
     - *File Name:* forLoop.py
 - ***While-Loops*** **Program:** Creating a while-loop to introduce iterations while a custom endpoint. 
     - *File Name:* whileLoop.py
-- ***Test Module*** **Program:** Program working importing code from one file to another to solve a mathematical equation.  
+- ***Test Module*** **Program:** Program working importing code from one file to another to solve an equation.  
     - *File Name:* import.py & testModule.py
 - ***Regular Expressions*** **Program:** Program focused on working with Regualar Expressions, Regex, and string methods.  
     - *File Name:* regex.py
