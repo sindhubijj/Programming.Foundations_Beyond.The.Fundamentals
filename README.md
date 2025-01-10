@@ -14,7 +14,7 @@
     - *File Name:* whileLoop.py
 - ***Test Module*** **Program:** Program working importing code from one file to another to solve an equation.  
     - *File Name:* import.py & testModule.py
-- ***Regular Expressions*** **Program:** Program focused on working with Regualar Expressions, Regex, and string methods.  
+- ***Regular Expressions*** **Program:** Program focused on working with Regular Expressions and string methods.  
     - *File Name:* regex.py
 - ***Concatenation*** **Program:** Program introducing concatenation and working with strings.  
     - *File Name:* stringApp.py
