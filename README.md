@@ -16,9 +16,9 @@
     - *File Name:* import.py & testModule.py
 - ***Regular Expressions*** **Program:** Program focused on working with Regualar Expressions, Regex, and string methods.  
     - *File Name:* regex.py
-- ***Concatenation*** **Program:** Program introducting concatenation and working with strings.  
+- ***Concatenation*** **Program:** Program introducing concatenation and working with strings.  
     - *File Name:* stringApp.py
-- ***Slicing*** **Program:** Program introducting and applying slicing.  
+- ***Slicing*** **Program:** Program introducing slicing and working with more sting methods.  
     - *File Name:* slicing.py
 - ***Challenge #1*** **Program:** Focused on creating lists & dictionaries while accessing indicies. 
     - *File Name:* challenge_1.py
