@@ -24,11 +24,11 @@
     - *File Name:* inputOutput.py, values.txt, & values-totaled.txt
 - ***Debugging*** **Program:** Program introducing debugging techniques and IDE concepts.  
     - *File Name:* debugging.py
-- ***Error Messages*** **Program:** Program designed to read & understand error messages in order to debug programs.
+- ***Error Messages*** **Program:** Program designed to read & understand error messages for debugging. 
     - *File Name:* errorMessage.py
-- ***Descending Count*** **Program:** Program designed to count backwards from 10, while practicing debugging techniques. 
+- ***Descending Count*** **Program:** Program designed to count from 10, while practicing debugging techniques. 
     - *File Name:* count.py
-- ***Weather Report*** **Program:** Program designed to check the temperature & indicate whether or not a jacket is required.
+- ***Weather Report*** **Program:** Program designed to check the temperature if a jacket is required.
     - *File Name:* forecast.py
 - ***Challenge #1*** **Program:** Focused on creating lists & dictionaries while accessing indicies. 
     - *File Name:* challenge_1.py
