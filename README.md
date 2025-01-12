@@ -22,9 +22,20 @@
     - *File Name:* slicing.py
 - ***Input & Output*** **Program:** Program introducing user interaction using input/output methods and separate files.  
     - *File Name:* inputOutput.py, values.txt, & values-totaled.txt
+- ***Debugging*** **Program:** Program introducing debugging techniques and IDE concepts.  
+    - *File Name:* debugging.py
+- ***Error Messages*** **Program:** Program designed to read & understand error messages in order to debug programs.
+    - *File Name:* errorMessage.py
+- ***Descending Count*** **Program:** Program designed to count backwards from 10, while practicing debugging techniques. 
+    - *File Name:* count.py
+- ***Weather Report*** **Program:** Creating a program designed to indicate whether or not the user needs a jacket depending on the temperature.
+    - *File Name:* forecast.py
+
 - ***Challenge #1*** **Program:** Focused on creating lists & dictionaries while accessing indicies. 
     - *File Name:* challenge_1.py
 - ***Challenge #2*** **Program:** Focused on creating a for-loop to print out a list/collection. 
     - *File Name:* challenge_2.py
 - ***Challenge #3*** **Program:** Focused on converting data types and working with strings. 
     - *File Name:* challenge_3.py
+- ***Challenge #4*** **Program:** Focused on debugging a program to get used to the techniques. 
+    - *File Name:* challenge_4.py
