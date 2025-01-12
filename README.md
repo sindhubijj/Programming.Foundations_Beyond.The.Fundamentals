@@ -28,9 +28,8 @@
     - *File Name:* errorMessage.py
 - ***Descending Count*** **Program:** Program designed to count backwards from 10, while practicing debugging techniques. 
     - *File Name:* count.py
-- ***Weather Report*** **Program:** Creating a program designed to indicate whether or not the user needs a jacket depending on the temperature.
+- ***Weather Report*** **Program:** Program designed to check the temperature & indicate whether or not a jacket is required.
     - *File Name:* forecast.py
-
 - ***Challenge #1*** **Program:** Focused on creating lists & dictionaries while accessing indicies. 
     - *File Name:* challenge_1.py
 - ***Challenge #2*** **Program:** Focused on creating a for-loop to print out a list/collection. 
