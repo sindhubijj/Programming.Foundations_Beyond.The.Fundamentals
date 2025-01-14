@@ -30,6 +30,10 @@
     - *File Name:* count.py
 - ***Weather Report*** **Program:** Program designed to check the temperature if a jacket is required.
     - *File Name:* forecast.py
+- ***Coin Toss*** **Program:** Creating a program introducing methods, specifically 'count' and 'pop'.
+    - *File Name:* coinToss.py
+- ***Tickets*** **Program:** Program utltizing classes & methods to see how many tickets are needed per attendee.
+    - *File Name:* tickets.py
 - ***Challenge #1*** **Program:** Focused on creating lists & dictionaries while accessing indicies. 
     - *File Name:* challenge_1.py
 - ***Challenge #2*** **Program:** Focused on creating a for-loop to print out a list/collection. 
